@@ -21,7 +21,8 @@ This site is a lightweight hub for my work, ideas, and occasional notes.
 
 ## News / Now
 
-- **Now** — MSCS application + Interview Prep
+- **Now** — Interning at Finn AI building FP&L financial agents. Check out my latest resume (last updated 01/01/2026)
+- **Fall 2025** — My paper Bi-VLM got accepted for publication at AAAI 2026
 - **Summer 2025** — Finished my undergraduate double major CS + Math from the University of Maryland College Park
 - **Spring 2025** — Experiments on ultra-low-bit VLM quantization; writing up results  
 - **2024** — Object detection baselines + custom DETR variant for the DAVE dataset
